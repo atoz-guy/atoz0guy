@@ -1,5 +1,5 @@
 # Hi, I'm Afiz 👋 (atoz0guy)
-
+ 
 ### 🛡️ Cybersecurity Student @ UCSD | 🛠️ 10+ Year Micro-Soldering Expert | 💻 Aspiring SOC Analyst
 
 I am a Cybersecurity student at the **University of California, San Diego**. I bring over a decade of professional experience in advanced hardware diagnostics and micro-soldering to the digital security space. I specialize in the "Physical Layer" of IT—understanding systems from the silicon up.
