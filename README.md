@@ -2,13 +2,13 @@
 
 ### 🛡️ Cybersecurity Student @ UCSD | 🛠️ 10+ Year Micro-Soldering Expert | 💻 Aspiring SOC Analyst
 
-I am a Cybersecurity student at the **University of California, San Diego (UCSD)**. I bring over a decade of professional experience in advanced hardware diagnostics and micro-soldering to the digital security space. I specialize in the "Physical Layer" of IT—understanding systems from the silicon up.
+I am a Cybersecurity student at the **University of California, San Diego**. I bring over a decade of professional experience in advanced hardware diagnostics and micro-soldering to the digital security space. I specialize in the "Physical Layer" of IT—understanding systems from the silicon up.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🎓 **Academic:** Completing my B.S. in Cybersecurity at UCSD.
-- 📜 **Certifications:** Currently pursuing the **Practical Help Desk Associate (PHDA)** and **LPIC-1**.
+- 🎓 **Academic:** Completing my Professional Certificate in Cybersecurity at **UCSD** extended studies.
+- - 📜 Certifications: UCSD Professional Certificate in Cybersecurity. Pursuing **PSAA** (Practical SOC Analyst Associate), **LPIC-1** (Linux Professional Institute Certificate), and **PCEP** (Certified Associate in Python Programming).
 - 🐍 **Automation:** Learning Python (3-4 hours/week) to automate IT support workflows.
 - ♻️ **Sustainability:** Developing better IT Asset Disposal (ITAD) and resource recovery methods.
 
